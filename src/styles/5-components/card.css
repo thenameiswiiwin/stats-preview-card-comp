@@ -1,0 +1,36 @@
+.card {
+  overflow: hidden;
+  text-align: center;
+  background-color: var(--clr-primary-200);
+  border-radius: 0.75rem;
+}
+
+.card__img {
+  background-color: var(--clr-primary-100);
+}
+
+.card__img img {
+  opacity: 0.8;
+  mix-blend-mode: multiply;
+}
+
+.card__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  order: 1;
+  padding: 2.25em 1.3em;
+}
+
+.card__text__paragraph {
+  margin-top: 1.25em;
+  padding: 0 0.75em;
+}
+
+.card__text__stats {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 2em;
+}

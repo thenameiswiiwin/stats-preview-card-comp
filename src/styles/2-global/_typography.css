@@ -1,0 +1,32 @@
+h1,
+h2,
+p {
+  display: block;
+  color: var(--clr-neutral-100);
+  font-weight: var(--fw-base);
+  font-family: var(--ff-primary);
+}
+.card__text__heading {
+  line-height: 1.2;
+}
+
+.card__text__heading,
+.stat__heading {
+  font-weight: var(--fw-bold);
+}
+
+.card__text__paragraph {
+  color: var(--clr-neutral-200);
+}
+
+.stat__description {
+  color: var(--clr-neutral-300);
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-base);
+  font-family: var(--ff-secondary);
+  text-transform: uppercase;
+}
+
+.purple {
+  color: var(--clr-primary-100);
+}
