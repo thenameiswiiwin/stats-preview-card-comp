@@ -1,7 +1,7 @@
-@import './1-resets/normalize.css';
-@import './2-global/_global.css';
-@import './2-global/_typography.css';
-@import './3-variables/_custom-variables.css';
-@import './4-utilities/_utility-classes.css';
-@import './5-components/card.css';
-@import './6-queries/_media-queries.css';
+@import './normalize.css';
+@import './_global.css';
+@import './_typography.css';
+@import './_custom-variables.css';
+@import './_utility-classes.css';
+@import './card.css';
+@import './_media-queries.css';
