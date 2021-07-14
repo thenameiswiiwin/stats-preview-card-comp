@@ -1,11 +1,11 @@
-# Stats preview card component
-
-![Design preview for Spense](./design/desktop-preview.jpg)
-
-Live Site
+## Live Site
 ```
 https://thenameiswiiwin.github.io/stats-preview-card-comp/
 ```
+
+# Stats preview card component
+
+![Design preview for Spense](./design/desktop-preview.jpg)
 
 # Welcome !!! 👋
 
